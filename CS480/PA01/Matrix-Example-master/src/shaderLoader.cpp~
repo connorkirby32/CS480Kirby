@@ -1,0 +1,49 @@
+#include <fstream>
+#include <string>
+#include <iostream>
+using namespace std; 
+
+
+class shaderLoader{
+
+
+	public: 
+
+		char * returnLoader( char * fileName){
+
+			ifstream fin;
+			int count; 
+			fin.open("vertexShader.vert");
+
+			while(fin.good()){
+				string x;
+				cout<<x;  
+				fin>>x;
+				x += x;  
+				 
+			}
+			//loader = x;
+			fin.close();
+			return loader; 
+
+		} 
+	
+	private:
+
+		char * loader; 
+
+};
+
+ int main(){
+
+shaderLoader x;
+
+x.returnLoader("x");
+
+
+return 0; 
+
+}
+
+
+
