@@ -187,7 +187,7 @@ void render()
                            (void*)offsetof(Vertex,color));
 
     glDrawArrays(GL_TRIANGLES, 0, 36);//mode, starting index, count
-
+ 
     //clean up
     glDisableVertexAttribArray(loc_position);
     glDisableVertexAttribArray(loc_color);
@@ -208,7 +208,7 @@ void update()
     
         angle += dt * M_PI/2; //move through 90 degrees a second
         model = glm::translate( glm::mat4(1.0f), glm::vec3(orbit * 4.0 * sin(angle), 0.0, 4.0 * cos(angle)));
-        model = glm::rotate( model, angle * ,  glm::vec3(0.0, orbit_axis * 1.0, 0.0));
+        model = glm::rotate( model, angle ,  glm::vec3(0.0, orbit_axis * 1.0, 0.0));
         
   }
 		
