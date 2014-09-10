@@ -201,14 +201,14 @@ void update()
     //total time
     static float angle = 0.0;
     float dt = getDT();// if you have anything moving, use dt.
-
+    angle += dt * M_PI/2; //move through 90 degrees a second
     
   
    if(spin){   
     
-        angle += dt * M_PI/2; //move through 90 degrees a second
+        
         model = glm::translate( glm::mat4(1.0f), glm::vec3(orbit * 4.0 * sin(angle), 0.0, 4.0 * cos(angle)));
-        model = glm::rotate( model, angle ,  glm::vec3(0.0, orbit_axis * 1.0, 0.0));
+        model = glm::rotate( model, angle*90 , glm::vec3(0.0, orbit_axis * 1.0, 0.0));
         
   }
 		
