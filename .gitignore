@@ -1,0 +1,9 @@
+# Created by https://www.gitignore.io
+
+### Linux ###
+*~
+*.gch
+
+# KDE directory preferences
+.directory
+
