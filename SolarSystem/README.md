@@ -1,6 +1,3 @@
-File names are hard coded.
+Worked With Tyler Dewitt
 
-Using SOIL for image loader. 
-
-Texturing capsule with JPEG image. 
-
+Use WASD to manuver through the solar system. 
