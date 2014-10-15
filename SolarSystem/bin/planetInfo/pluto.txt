@@ -1,0 +1,7 @@
+45.0
+0
+90465 
+153
+../bin/planets/pluto.obj
+../bin/textures/pluto.jpg
+

@@ -1,0 +1,7 @@
+30.0
+0
+10759
+10.66
+../bin/planets/saturn.obj
+../bin/textures/saturn.jpg
+

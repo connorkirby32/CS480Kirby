@@ -1,0 +1,7 @@
+40.0
+0
+60190
+16.1
+../bin/planets/neptune.obj
+../bin/textures/neptune.jpg
+
