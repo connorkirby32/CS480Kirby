@@ -1,0 +1,7 @@
+25.0
+0
+4331
+9.9
+../bin/planets/jupiter.obj
+../bin/textures/jupiter.jpg
+

@@ -1,0 +1,9 @@
+5.00
+0
+88.970
+1406.4
+../bin/planets/mercury.obj
+../bin/textures/mercury.jpg
+
+
+

@@ -1,0 +1,7 @@
+20.0
+0
+687
+24.7
+../bin/planets/mars.obj
+../bin/textures/mars.jpg
+

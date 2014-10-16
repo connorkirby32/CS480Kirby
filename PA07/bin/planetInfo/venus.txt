@@ -1,0 +1,6 @@
+10.72
+0
+224.70
+5832
+../bin/planets/venus.obj
+../bin/textures/venus.jpg

@@ -1,0 +1,18 @@
+15.0
+0
+365
+23.9
+../bin/planets/earth.obj
+../bin/textures/earth.jpg
+
+
+
+
+
+
+distance from object
+object goes around
+days in one orbit around sun
+hours per day
+obj file
+texture file

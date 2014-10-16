@@ -1,0 +1,7 @@
+1.0
+0
+1
+1
+../bin/planets/sun.obj
+../bin/textures/sun.jpg
+

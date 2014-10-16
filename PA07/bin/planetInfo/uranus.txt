@@ -1,0 +1,7 @@
+35.0
+0
+30799
+17.2
+../bin/planets/uranus.obj
+../bin/textures/uranus.jpg
+
