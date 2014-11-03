@@ -1,0 +1,9 @@
+../bin/models/table.obj
+../bin/textures/table.jpg
+
+
+
+
+
+
+

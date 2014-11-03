@@ -1,0 +1,2 @@
+../bin/models/paddle.obj
+../bin/textures/paddle.jpg

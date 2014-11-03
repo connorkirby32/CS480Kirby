@@ -1,0 +1,2 @@
+../bin/models/puck.obj
+../bin/textures/puck.jpg
