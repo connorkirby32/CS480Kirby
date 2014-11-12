@@ -1,0 +1,5 @@
+../bin/sphere.obj
+../bin/texture.jpg
+
+
+
