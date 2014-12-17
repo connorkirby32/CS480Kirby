@@ -1,0 +1,5 @@
+../bin/Level1/scoreboard.obj
+../bin/Level1/holderTexture.jpg
+
+
+

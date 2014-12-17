@@ -1,0 +1,5 @@
+../bin/Level1/medal.obj
+../bin/Level1/silverTexture.jpg
+
+
+
