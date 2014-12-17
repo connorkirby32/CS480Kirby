@@ -1,0 +1,5 @@
+../bin/Level1/knob.obj
+../bin/Level1/red.jpg
+
+
+
